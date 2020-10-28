@@ -4,7 +4,7 @@ public class Apple {
 	
 	public static void main(String[]args) {
 	
-		System.out.println("Hello starting point");
+		System.out.println("Hello");
 		int count=0;
 		
 		for(int x=0; x<=15; x++) {
